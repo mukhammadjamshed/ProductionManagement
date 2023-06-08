@@ -72,7 +72,6 @@ This is the output from postman
 ![image](https://github.com/mukhammadjamshed/ProductionManagement/assets/110180732/8e68767f-b4f1-48cc-a017-3ad5e51b90c3)
 ![image](https://github.com/mukhammadjamshed/ProductionManagement/assets/110180732/c550a5f7-0ce2-45e3-9f98-942266de8813)
 
-![image](https://github.com/mukhammadjamshed/ProductionManagement/assets/110180732/9ce919a40dd3ad5f357c3d5a6481f3d5)
 
 
 
