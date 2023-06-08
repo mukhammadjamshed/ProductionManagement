@@ -72,71 +72,7 @@ This is the output from postman
 ![image](https://github.com/mukhammadjamshed/ProductionManagement/assets/110180732/8e68767f-b4f1-48cc-a017-3ad5e51b90c3)
 ![image](https://github.com/mukhammadjamshed/ProductionManagement/assets/110180732/c550a5f7-0ce2-45e3-9f98-942266de8813)
 
-
-{
-  "result": [
-    {
-      "product_name": "Product 1",
-      "product_qty": 10,
-      "product_materials": [
-        {
-          "material_name": "Material 1",
-          "qty": 5,
-          "price": 10.99,
-          "warehouse_quantities": [
-            {
-              "warehouse_id": 1,
-              "price": 10.99,
-              "qty": 5
-            }
-          ]
-        },
-        {
-          "material_name": "Material 2",
-          "qty": 3,
-          "price": 8.99,
-          "warehouse_quantities": [
-            {
-              "warehouse_id": 2,
-              "price": 8.99,
-              "qty": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "product_name": "Product 2",
-      "product_qty": 15,
-      "product_materials": [
-        {
-          "material_name": "Material 1",
-          "qty": 10,
-          "price": 10.99,
-          "warehouse_quantities": [
-            {
-              "warehouse_id": 1,
-              "price": 10.99,
-              "qty": 10
-            }
-          ]
-        },
-        {
-          "material_name": "Material 3",
-          "qty": 5,
-          "price": 12.99,
-          "warehouse_quantities": [
-            {
-              "warehouse_id": 3,
-              "price": 12.99,
-              "qty": 5
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+![image](https://github.com/mukhammadjamshed/ProductionManagement/assets/110180732/9ce919a40dd3ad5f357c3d5a6481f3d5)
 
 
 
